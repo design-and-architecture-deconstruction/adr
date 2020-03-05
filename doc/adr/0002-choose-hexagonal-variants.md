@@ -12,6 +12,13 @@ We would like to deconstruct the various hexagonal architecture variants that ha
 
 An additional desire is that the style we choose is synergistic with the best in DDD code-level design thinking.
 
+Current list to consider:
+
+* Cockburn's Hexagonal
+* Onion Architecture
+* Clean Architecture (Uncle Bob)
+* Are there otheres?
+
 ## Decision
 
 TODO: The change that we're proposing or have agreed to implement.
